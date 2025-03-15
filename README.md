@@ -55,7 +55,7 @@ Esta é uma API REST desenvolvida com **Spring Boot** para processar transaçõe
 **Resposta**:
    * `200 OK`: Transações apagadas.
 
-## 2️⃣ Obter Estatísticas
+## 3️⃣Obter Estatísticas
 **📌 DELETE /estatistica**
 
 **Descrição:** Retorna estatísticas das transações dos últimos 60 segundos.
